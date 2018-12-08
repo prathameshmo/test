@@ -1,0 +1,2 @@
+#!/bin/bash
+service apche2 start
